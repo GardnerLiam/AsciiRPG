@@ -4,7 +4,7 @@
  */
 package Entity;
 
-public class Entity {
+public class Player {
 	
 	String Name;
 	int Health;
