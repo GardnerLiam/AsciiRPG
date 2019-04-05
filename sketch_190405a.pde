@@ -2,18 +2,12 @@
 //Purpose: To make a loading screen for our game 
 //Date: 2019/04/05
 int idx = 0;
-int[] indices;
-void setup()
-{
-  size(800, 600);
-}
-void draw()
-{
+
+void draw() {
   showLoading();
 }
 int loadingX = 10;
-void showLoading()
-{
+void showLoading() {
   background(250);
   fill(#0000AA);
   text("Please wait, loading...", 10, height / 2);
