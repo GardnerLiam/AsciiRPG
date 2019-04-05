@@ -1,7 +1,6 @@
 //Author: Samuel R. Bates
 //Purpose: To make a loading screen for our game 
 //Date: 2019/04/05
-int idx = 0;
 
 void draw() {
   showLoading();
