@@ -20,7 +20,7 @@ public class ICS4U_ASCII_RPG extends PApplet {
 /*
 @Author: Liam Gardner
 @Date: March 26, 2019
-@Purpose: This is the 'run' class. I've every time I've had to actually go through everything here. 
+@Purpose: This is the 'run' class. I've cried every time I've had to actually go through everything here. 
 */
 
 
